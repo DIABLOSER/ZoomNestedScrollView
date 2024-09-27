@@ -1,4 +1,4 @@
-package com.mdplus.library
+package com.mdplus.zoomNestedScrollView
 
 import android.animation.ObjectAnimator
 import android.content.Context

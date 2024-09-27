@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "com.mdplus.library"
+    namespace = "com.mdplus.zoomNestedScrollView"
     compileSdk = 34
 
     defaultConfig {
@@ -49,7 +49,7 @@ afterEvaluate {
         publications {
             create<MavenPublication>("release") {
                 from(components["release"])
-                groupId = "com.mdplus.library"
+                groupId = "com.mdplus.zoomNestedScrollView"
                 artifactId = "ZoomNestedScrollView"
                 version = "1.0.5"
             }

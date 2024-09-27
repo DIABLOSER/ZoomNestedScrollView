@@ -42,7 +42,7 @@ dependencies {
     androidTestImplementation(libs.androidx.espresso.core)
 }
 group = "com.github.DIABLOSER"
-version = "1.0.1"
+version = "1.0.0"
 
 afterEvaluate {
     publishing {
@@ -51,7 +51,7 @@ afterEvaluate {
                 from(components["release"])
                 groupId = "com.mdplus.zoomNestedScrollView"
                 artifactId = "ZoomNestedScrollView"
-                version = "1.0.1"
+                version = "1.0.0"
             }
         }
     }

@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.mdplus.app"
+    namespace = "cn.mdplus.zoomNestedScrollView"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.mdplus.app"
+        applicationId = "cn.mdplus.zoomNestedScrollView"
         minSdk = 28
         targetSdk = 34
         versionCode = 1

@@ -1,4 +1,4 @@
-package com.mdplus.app
+package com.mdplus.zoomNestedScrollView
 
 import org.junit.Test
 

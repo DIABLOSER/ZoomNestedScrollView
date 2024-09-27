@@ -1,4 +1,4 @@
-package com.mdplus.app
+package com.mdplus.zoomNestedScrollView
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
